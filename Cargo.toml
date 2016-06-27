@@ -1,5 +1,5 @@
 [package]
-name = "rcross"
+name = "rust-cross"
 version = "0.1.0"
 authors = ["maik klein <maikklein@googlemail.com>"]
 
